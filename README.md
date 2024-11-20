@@ -25,7 +25,7 @@ I'm a Master's student in Bioinformatics with a background in Genetics, Cell Bio
  - Single cell analysis 
 
 🌱 **Learning Goals:**  
-I’m looking forward to gain more expertise in the fileds of multi-omics** analysis, and personalized medicine.
+I’m looking forward to gain more expertise in the fileds of multi-omics analysis, and personalized medicine.
 
 ---
 
