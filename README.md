@@ -31,7 +31,8 @@ I’m looking forward to gain more expertise in the fileds of multi-omics** anal
 
 ## 🤝 Let’s Connect!
 
-🌐 [LinkedIn](#www.linkedin.com/in/oliverastojkova)  
-✉️ [Email Me](mailto:stojkovaolivera@outlook.com)  
+🌐 LinkedIn: linkedin.com/in/oliverastojkova 
+
+✉️ Email: stojkovaolivera@outlook.com  
 
 ---
