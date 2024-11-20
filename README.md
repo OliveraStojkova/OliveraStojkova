@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 **Welcome to my GitHub profile!**  
 
-I'm a Master's student in Bioinformatics with a background in Genetics, Cell Biology and Development. My interest lies in integrating biological and biomedical data to gain insights into disease mechanisms and drive biologically relevant conclusions.
+I'm a Master's student in Bioinformatics with a background in Genetics, Cell Biology and Development. My interest lies in integrating biological and biomedical data to gain insights into disease mechanisms and derive biologically relevant conclusions.
 
 ---
 
