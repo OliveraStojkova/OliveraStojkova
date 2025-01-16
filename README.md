@@ -15,7 +15,7 @@ I'm a Master's student in Bioinformatics with a background in Genetics, Cell Bio
 🔬 **Research Interests:**  
 - Genomic data analysis
 - Transcriptomic data analysis 
-- Computational biology in cancer research  
+- Cancer bioinformatics  
 
 🎓 **Current Work:**  
  I’m pursuing my Master’s degree, exploring topics like:
